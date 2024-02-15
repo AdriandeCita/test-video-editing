@@ -1,0 +1,44 @@
+.transcript__container {
+  padding: 0 0.5em;
+}
+
+.transcript__row {
+  display: flex;
+  gap: 0.75em;
+  padding: 0.25em 0;
+  cursor: default;
+  position: relative;
+  text-align: left;
+}
+
+.transcript__row:hover {
+  background-color: var(--bgc-medium-light);
+}
+
+.transcript__row-time {
+  min-width: 3.5em;
+  text-align: center;
+  border-radius: 1.5em;
+  background-color: var(--bgc-light);
+  align-self: first baseline;
+}
+
+.transcript__row-button {
+  border-radius: 0.25em;
+  background-color: #f00;
+  border: none;
+  position: absolute;
+  right: 0.25em;
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+  padding: 0.25em;
+  height: 2em;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.transcript__row:hover .transcript__row-button {
+  opacity: 1;
+  pointer-events: auto;
+}

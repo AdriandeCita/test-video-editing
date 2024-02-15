@@ -1,0 +1,1688 @@
+{
+    "responseContext": {
+        "serviceTrackingParams": [
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "2.20240214.01.00"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "1"
+                    },
+                    {
+                        "key": "GetVideoTranscript_rid",
+                        "value": "0xf08fe6f7f0e448f7"
+                    }
+                ]
+            },
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "1"
+                    },
+                    {
+                        "key": "e",
+                        "value": "9407155,23804281,23946420,23966208,23983296,23986028,23998056,24004644,24007246,24036948,24077241,24080738,24120819,24135310,24140247,24166867,24181174,24186126,24187377,24208765,24241378,24255543,24255545,24260378,24288664,24290971,24367580,24367823,24377598,24382552,24385728,24390675,24428788,24439361,24451319,24453989,24468724,24485421,24495712,24499534,24506515,24506784,24515423,24524098,24524562,24537200,24539025,24542367,24542452,24543668,24546059,24547316,24548627,24548629,24550458,24552798,24560416,24566687,24694842,24697069,24699899,51003636,51004018,51006181,51009781,51010235,51012659,51014091,51016856,51017346,51019626,51020570,51021953,51025415,51026715,51027870,51030101,51033399,51037346,51037351,51037540,51038805,51039200,51041280,51041338,51041497,51043775,51047534,51047537,51048240,51048489,51049132,51050361,51051300,51053689,51057501,51057746,51057755,51057842,51057857,51059571,51060353,51061001,51063363,51063643,51069269,51069593,51071571,51072460,51072748,51074183,51074717,51074722,51074739,51078465,51079299,51079353,51079993,51080343,51080397,51080511,51082385,51084279,51084290,51087987,51089175,51089441,51089955,51091331,51091644,51092258,51092660,51092929,51094171,51094178,51094195,51094202,51094207,51095233,51095273,51096389,51096577,51096646,51096961,51098297,51098299,51099408,51099619,51101454,51102317,51102758,51103044,51103089,51103434,51104002,51104190,51105793,51105868,51106957,51106995,51107336,51107857,51108006,51108584,51108622,51108774,51108974,51111738,51113276,51113416,51113656,51113661,51114643,51116587,51119399,51120144"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "2.20240214"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "51091644,24428788,51053689,24367580,51108006,23986028,51096577,24260378,51074183,51006181,51061001,24077241,24697069,51047534,24241378,51080511,51103044,24036948,51079353,51079993,24547316,24140247,51089955,51114643,51080397,51113276,51003636,51048489,24550458,51107336,51059571,51120144,24290971,51095233,24524562,24080738,51099619,51108774,51021953,51102317,51030101,51101454,51082385,51119399,51087987,24548629,51048240,24542367,51041338,51057501,24506784,24367823,51105868,51009781,51092660,23998056,51016856,51049132,51050361,51108622,51098297,51041280,51096961,24451319,24542452,24187377,24186126,9407155,51026715,24495712,23983296,24485421,51063643,51108974,51084290,51057746,51094178,51027870,51041497,24208765,51074722,24255545,24539025,51094207,24543668,51094171,51071571,51092258,51113656,51116587,51047537,24007246,24390675,51033399,51089441,51069593,51038805,51089175,24537200,24439361,24548627,24552798,51019626,51108584,51098299,51078465,24385728,51069269,51079299,51012659,24560416,51106995,51113416,51063363,24468724,51037346,24453989,51080343,51037540,24506515,51104190,51057755,24120819,24524098,51043775,24255543,23946420,51107857,51113661,24699899,51010235,51096646,51091331,51017346,51025415,24135310,51095273,51074717,51051300,51102758,51105793,51072748,51057842,51092929,51111738,51103434,51094202,51104002,51074739,51094195,51103089,51037351,51072460,51004018,24181174,24694842,24377598,51099408,23966208,24515423,51057857,24382552,51014091,51020570,24566687,24004644,51106957,24546059,51060353,24499534,51096389,24166867,23804281,51084279,24288664,51039200"
+                    }
+                ]
+            }
+        ],
+        "mainAppWebResponseContext": {
+            "datasyncId": "103949425068070585379||",
+            "loggedOut": false,
+            "trackingParam": "kx_fmPxhoPZRlRA9m4T3XO9z-X_IrVKWsiuXbzIEQGXj45Eass0cwhLBwOcCE59TDtslLKPQ-SS"
+        },
+        "webResponseContextExtensionData": {
+            "hasDecorated": true
+        }
+    },
+    "actions": [
+        {
+            "clickTrackingParams": "CAAQw7wCIhMIxKTB6u6shAMVH_m0Ch0QewEz",
+            "updateEngagementPanelAction": {
+                "targetId": "engagement-panel-searchable-transcript",
+                "content": {
+                    "transcriptRenderer": {
+                        "trackingParams": "CAEQ8bsCIhMIxKTB6u6shAMVH_m0Ch0QewEz",
+                        "content": {
+                            "transcriptSearchPanelRenderer": {
+                                "header": {
+                                    "transcriptSearchBoxRenderer": {
+                                        "formattedPlaceholder": {
+                                            "runs": [
+                                                {
+                                                    "text": "Пошук у відео"
+                                                }
+                                            ]
+                                        },
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "Пошук у відео"
+                                            }
+                                        },
+                                        "clearButton": {
+                                            "buttonRenderer": {
+                                                "icon": {
+                                                    "iconType": "CLOSE"
+                                                },
+                                                "trackingParams": "CFEQyeAHIhMIxKTB6u6shAMVH_m0Ch0QewEz",
+                                                "accessibilityData": {
+                                                    "accessibilityData": {
+                                                        "label": "Очистити пошуковий запит"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "onTextChangeCommand": {
+                                            "clickTrackingParams": "CE8Qq9oHIhMIxKTB6u6shAMVH_m0Ch0QewEz",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "sendPost": true,
+                                                    "apiUrl": "/youtubei/v1/get_transcript"
+                                                }
+                                            },
+                                            "getTranscriptEndpoint": {
+                                                "params": "CgtsbF9TYjhlSWtQYxISQ2dOaGMzSVNBbVZ1R2dBJTNEGAEqM2VuZ2FnZW1lbnQtcGFuZWwtc2VhcmNoYWJsZS10cmFuc2NyaXB0LXNlYXJjaC1wYW5lbDAAOAFAAA%3D%3D"
+                                            }
+                                        },
+                                        "trackingParams": "CE8Qq9oHIhMIxKTB6u6shAMVH_m0Ch0QewEz",
+                                        "searchButton": {
+                                            "buttonRenderer": {
+                                                "trackingParams": "CFAQgoMIIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                            }
+                                        }
+                                    }
+                                },
+                                "body": {
+                                    "transcriptSegmentListRenderer": {
+                                        "initialSegments": [
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "3320",
+                                                    "endMs": "6160",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "all right I am going to enter into an"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:03"
+                                                    },
+                                                    "trackingParams": "CE4Q0_YHGAAiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "3 секунди all right I am going to enter into an"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.3320.6160"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "6160",
+                                                    "endMs": "8559",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "improvisational scenario with the chat"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:06"
+                                                    },
+                                                    "trackingParams": "CE0Q0_YHGAEiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "6 секунд improvisational scenario with the chat"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.6160.8559"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "8559",
+                                                    "endMs": "15240",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "GPT here so let's say I am a"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:08"
+                                                    },
+                                                    "trackingParams": "CEwQ0_YHGAIiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "8 секунд GPT here so let's say I am a"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.8559.15240"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "15240",
+                                                    "endMs": "21080",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "1920s uh private eye that also happens"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:15"
+                                                    },
+                                                    "trackingParams": "CEsQ0_YHGAMiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "15 секунд 1920s uh private eye that also happens"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.15240.21080"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "21080",
+                                                    "endMs": "26640",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "to be a giant banana one way to look at"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:21"
+                                                    },
+                                                    "trackingParams": "CEoQ0_YHGAQiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "21 секунда to be a giant banana one way to look at"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.21080.26640"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "26640",
+                                                    "endMs": "29640",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "how large language models work is to"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:26"
+                                                    },
+                                                    "trackingParams": "CEkQ0_YHGAUiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "26 секунд how large language models work is to"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.26640.29640"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "29640",
+                                                    "endMs": "32398",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "look at how improvisational Comedy Works"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:29"
+                                                    },
+                                                    "trackingParams": "CEgQ0_YHGAYiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "29 секунд look at how improvisational Comedy Works"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.29640.32398"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "32398",
+                                                    "endMs": "35320",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "where there's no notion of Truth or fact"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:32"
+                                                    },
+                                                    "trackingParams": "CEcQ0_YHGAciEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "32 секунди where there's no notion of Truth or fact"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.32398.35320"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "35320",
+                                                    "endMs": "37719",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "to it it's just looking to append onto"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:35"
+                                                    },
+                                                    "trackingParams": "CEYQ0_YHGAgiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "35 секунд to it it's just looking to append onto"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.35320.37719"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "37719",
+                                                    "endMs": "39440",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the last thing that was said to keep the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:37"
+                                                    },
+                                                    "trackingParams": "CEUQ0_YHGAkiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "37 секунд the last thing that was said to keep the"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.37719.39440"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "39440",
+                                                    "endMs": "41559",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "comedy going you don't bring it to a"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:39"
+                                                    },
+                                                    "trackingParams": "CEQQ0_YHGAoiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "39 секунд comedy going you don't bring it to a"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.39440.41559"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "41559",
+                                                    "endMs": "43120",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "stop and say no that's not a thing"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:41"
+                                                    },
+                                                    "trackingParams": "CEMQ0_YHGAsiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "41 секунда stop and say no that's not a thing"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.41559.43120"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "43120",
+                                                    "endMs": "44879",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "that's happening cuz that actually"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:43"
+                                                    },
+                                                    "trackingParams": "CEIQ0_YHGAwiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "43 секунди that's happening cuz that actually"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.43120.44879"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "44879",
+                                                    "endMs": "46920",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "doesn't work comedically so here it's"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:44"
+                                                    },
+                                                    "trackingParams": "CEEQ0_YHGA0iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "44 секунди doesn't work comedically so here it's"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.44879.46920"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "46920",
+                                                    "endMs": "49600",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "probably going to uh dimer about asking"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:46"
+                                                    },
+                                                    "trackingParams": "CEAQ0_YHGA4iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "46 секунд probably going to uh dimer about asking"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.46920.49600"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "49600",
+                                                    "endMs": "51120",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "because I've asked about mental health"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:49"
+                                                    },
+                                                    "trackingParams": "CD8Q0_YHGA8iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "49 секунд because I've asked about mental health"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.49600.51120"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "51120",
+                                                    "endMs": "54120",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "counseling and they will have tuned it"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:51"
+                                                    },
+                                                    "trackingParams": "CD4Q0_YHGBAiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "51 секунда counseling and they will have tuned it"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.51120.54120"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "54120",
+                                                    "endMs": "58160",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "uh uh oh no it it actually is uh really"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:54"
+                                                    },
+                                                    "trackingParams": "CD0Q0_YHGBEiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "54 секунди uh uh oh no it it actually is uh really"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.54120.58160"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "58160",
+                                                    "endMs": "61239",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "just rolling with it uh so it's it's"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:58"
+                                                    },
+                                                    "trackingParams": "CDwQ0_YHGBIiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "58 секунд just rolling with it uh so it's it's"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.58160.61239"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "61239",
+                                                    "endMs": "64040",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "providing advice uh being a very helpful"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:01"
+                                                    },
+                                                    "trackingParams": "CDsQ0_YHGBMiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 1 секунда providing advice uh being a very helpful"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.61239.64040"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "64040",
+                                                    "endMs": "67200",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "chat GPT and uh just kind of going into"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:04"
+                                                    },
+                                                    "trackingParams": "CDoQ0_YHGBQiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 4 секунди chat GPT and uh just kind of going into"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.64040.67200"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "67200",
+                                                    "endMs": "69119",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "some standard things and completely"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:07"
+                                                    },
+                                                    "trackingParams": "CDkQ0_YHGBUiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 7 секунд some standard things and completely"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.67200.69119"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "69119",
+                                                    "endMs": "71280",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "ignoring the fact that I'm a giant"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:09"
+                                                    },
+                                                    "trackingParams": "CDgQ0_YHGBYiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 9 секунд ignoring the fact that I'm a giant"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.69119.71280"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "71280",
+                                                    "endMs": "73680",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "banana uh so it's completely normal to"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:11"
+                                                    },
+                                                    "trackingParams": "CDcQ0_YHGBciEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 11 секунд banana uh so it's completely normal to"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.71280.73680"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "73680",
+                                                    "endMs": "75640",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "it uh at this point which is"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:13"
+                                                    },
+                                                    "trackingParams": "CDYQ0_YHGBgiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 13 секунд it uh at this point which is"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.73680.75640"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "75640",
+                                                    "endMs": "77000",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "unsurprising because I don't think"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:15"
+                                                    },
+                                                    "trackingParams": "CDUQ0_YHGBkiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 15 секунд unsurprising because I don't think"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.75640.77000"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "77000",
+                                                    "endMs": "78960",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "anyone has asked this scenario in the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:17"
+                                                    },
+                                                    "trackingParams": "CDQQ0_YHGBoiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 17 секунд anyone has asked this scenario in the"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.77000.78960"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "78960",
+                                                    "endMs": "80720",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "collection of internet text that exists"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:18"
+                                                    },
+                                                    "trackingParams": "CDMQ0_YHGBsiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 18 секунд collection of internet text that exists"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.78960.80720"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "80720",
+                                                    "endMs": "81439",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "in the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:20"
+                                                    },
+                                                    "trackingParams": "CDIQ0_YHGBwiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 20 секунд in the"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.80720.81439"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "81439",
+                                                    "endMs": "84680",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "world um all right and it is titled it"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:21"
+                                                    },
+                                                    "trackingParams": "CDEQ0_YHGB0iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 21 секунда world um all right and it is titled it"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.81439.84680"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "84680",
+                                                    "endMs": "86400",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "banana Pi six"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:24"
+                                                    },
+                                                    "trackingParams": "CDAQ0_YHGB4iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 24 секунди banana Pi six"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.84680.86400"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "86400",
+                                                    "endMs": "90520",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "counseling um so that is fun is made"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:26"
+                                                    },
+                                                    "trackingParams": "CC8Q0_YHGB8iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 26 секунд counseling um so that is fun is made"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.86400.90520"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "90520",
+                                                    "endMs": "92439",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "some recommendations finding a"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:30"
+                                                    },
+                                                    "trackingParams": "CC4Q0_YHGCAiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 30 секунд some recommendations finding a"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.90520.92439"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "92439",
+                                                    "endMs": "94399",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "specialized therapist that's that's very"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:32"
+                                                    },
+                                                    "trackingParams": "CC0Q0_YHGCEiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 32 секунди specialized therapist that's that's very"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.92439.94399"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "94399",
+                                                    "endMs": "97759",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "good so the magic is its ability to"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:34"
+                                                    },
+                                                    "trackingParams": "CCwQ0_YHGCIiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 34 секунди good so the magic is its ability to"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.94399.97759"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "97759",
+                                                    "endMs": "100520",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "convince you of its humanness and that's"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:37"
+                                                    },
+                                                    "trackingParams": "CCsQ0_YHGCMiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 37 секунд convince you of its humanness and that's"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.97759.100520"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "100520",
+                                                    "endMs": "101880",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "been a thing people have been doing with"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:40"
+                                                    },
+                                                    "trackingParams": "CCoQ0_YHGCQiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 40 секунд been a thing people have been doing with"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.100520.101880"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "101880",
+                                                    "endMs": "105200",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "chat Bots for decades and it's just the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:41"
+                                                    },
+                                                    "trackingParams": "CCkQ0_YHGCUiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 41 секунда chat Bots for decades and it's just the"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.101880.105200"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "105200",
+                                                    "endMs": "107719",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "capacity for them to statistically"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:45"
+                                                    },
+                                                    "trackingParams": "CCgQ0_YHGCYiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 45 секунд capacity for them to statistically"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.105200.107719"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "107719",
+                                                    "endMs": "110960",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "present something that seems human is so"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:47"
+                                                    },
+                                                    "trackingParams": "CCcQ0_YHGCciEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 47 секунд present something that seems human is so"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.107719.110960"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "110960",
+                                                    "endMs": "112960",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "much greater than it was in the past but"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:50"
+                                                    },
+                                                    "trackingParams": "CCYQ0_YHGCgiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 50 секунд much greater than it was in the past but"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.110960.112960"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "112960",
+                                                    "endMs": "115320",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "let's see if we can prompt it to focus"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:52"
+                                                    },
+                                                    "trackingParams": "CCUQ0_YHGCkiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 52 секунди let's see if we can prompt it to focus"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.112960.115320"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "115320",
+                                                    "endMs": "117240",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "on the weird elements that it just"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:55"
+                                                    },
+                                                    "trackingParams": "CCQQ0_YHGCoiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 55 секунд on the weird elements that it just"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.115320.117240"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "117240",
+                                                    "endMs": "118680",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "statistically was trying to steer away"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:57"
+                                                    },
+                                                    "trackingParams": "CCMQ0_YHGCsiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 57 секунд statistically was trying to steer away"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.117240.118680"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "118680",
+                                                    "endMs": "120439",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "from because it didn't have a a basis to"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:58"
+                                                    },
+                                                    "trackingParams": "CCIQ0_YHGCwiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 хвилина і 58 секунд from because it didn't have a a basis to"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.118680.120439"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "120439",
+                                                    "endMs": "126759",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "build on but uh this all feels very"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:00"
+                                                    },
+                                                    "trackingParams": "CCEQ0_YHGC0iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини build on but uh this all feels very"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.120439.126759"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "126759",
+                                                    "endMs": "132480",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "generic I am a very distinctive banana"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:06"
+                                                    },
+                                                    "trackingParams": "CCAQ0_YHGC4iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 6 секунд generic I am a very distinctive banana"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.126759.132480"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "132480",
+                                                    "endMs": "138599",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "do you have any advice for my specific"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:12"
+                                                    },
+                                                    "trackingParams": "CB8Q0_YHGC8iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 12 секунд do you have any advice for my specific"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.132480.138599"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "138599",
+                                                    "endMs": "141200",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "uh perspective apologies my previous"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:18"
+                                                    },
+                                                    "trackingParams": "CB4Q0_YHGDAiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 18 секунд uh perspective apologies my previous"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.138599.141200"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "141200",
+                                                    "endMs": "145200",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "response seemed generic um it's now uh"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:21"
+                                                    },
+                                                    "trackingParams": "CB0Q0_YHGDEiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 21 секунда response seemed generic um it's now uh"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.141200.145200"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "145200",
+                                                    "endMs": "148000",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "telling me to embrace my uniqueness and"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:25"
+                                                    },
+                                                    "trackingParams": "CBwQ0_YHGDIiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 25 секунд telling me to embrace my uniqueness and"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.145200.148000"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "148000",
+                                                    "endMs": "151120",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "uh journal from a bananas point of view"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:28"
+                                                    },
+                                                    "trackingParams": "CBsQ0_YHGDMiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 28 секунд uh journal from a bananas point of view"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.148000.151120"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "151120",
+                                                    "endMs": "154480",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "uh it's going to completely uh look past"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:31"
+                                                    },
+                                                    "trackingParams": "CBoQ0_YHGDQiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 31 секунда uh it's going to completely uh look past"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.151120.154480"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "154480",
+                                                    "endMs": "156760",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the fact that it's completely"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:34"
+                                                    },
+                                                    "trackingParams": "CBkQ0_YHGDUiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 34 секунди the fact that it's completely"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.154480.156760"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "156760",
+                                                    "endMs": "158800",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "nonsensical that there's a 1920s private"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:36"
+                                                    },
+                                                    "trackingParams": "CBgQ0_YHGDYiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 36 секунд nonsensical that there's a 1920s private"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.156760.158800"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "158800",
+                                                    "endMs": "161519",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "eye banana it has no sense of facts it"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:38"
+                                                    },
+                                                    "trackingParams": "CBcQ0_YHGDciEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 38 секунд eye banana it has no sense of facts it"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.158800.161519"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "161519",
+                                                    "endMs": "164680",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "has no sense of uh the absurdity of the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:41"
+                                                    },
+                                                    "trackingParams": "CBYQ0_YHGDgiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 41 секунда has no sense of uh the absurdity of the"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.161519.164680"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "164680",
+                                                    "endMs": "167080",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "situation all these are just human"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:44"
+                                                    },
+                                                    "trackingParams": "CBUQ0_YHGDkiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 44 секунди situation all these are just human"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.164680.167080"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "167080",
+                                                    "endMs": "170239",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "interpretations of things that um are"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:47"
+                                                    },
+                                                    "trackingParams": "CBQQ0_YHGDoiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 47 секунд interpretations of things that um are"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.167080.170239"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "170239",
+                                                    "endMs": "171800",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "not present in a statistical model"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:50"
+                                                    },
+                                                    "trackingParams": "CBMQ0_YHGDsiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 50 секунд not present in a statistical model"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.170239.171800"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "171800",
+                                                    "endMs": "173599",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "looking to predict the next token of"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:51"
+                                                    },
+                                                    "trackingParams": "CBIQ0_YHGDwiEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 51 секунда looking to predict the next token of"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.171800.173599"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "173599",
+                                                    "endMs": "177640",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "text from the previous tokens of"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:53"
+                                                    },
+                                                    "trackingParams": "CBEQ0_YHGD0iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 53 секунди text from the previous tokens of"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.173599.177640"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "177640",
+                                                    "endMs": "180640",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "text"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:57"
+                                                    },
+                                                    "trackingParams": "CBAQ0_YHGD4iEwjEpMHq7qyEAxUf-bQKHRB7ATM=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 хвилини і 57 секунд text"
+                                                        }
+                                                    },
+                                                    "targetId": "ll_Sb8eIkPc.CgNhc3ISAmVuGgA%3D.177640.180640"
+                                                }
+                                            }
+                                        ],
+                                        "noResultLabel": {
+                                            "runs": [
+                                                {
+                                                    "text": "Нічого не знайдено"
+                                                }
+                                            ]
+                                        },
+                                        "retryLabel": {
+                                            "runs": [
+                                                {
+                                                    "text": "ТОРКНІТЬСЯ, ЩОБ ПОВТОРИТИ"
+                                                }
+                                            ]
+                                        },
+                                        "touchCaptionsEnabled": false
+                                    }
+                                },
+                                "footer": {
+                                    "transcriptFooterRenderer": {
+                                        "languageMenu": {
+                                            "sortFilterSubMenuRenderer": {
+                                                "subMenuItems": [
+                                                    {
+                                                        "title": "Англійська (створено автоматично)",
+                                                        "selected": true,
+                                                        "continuation": {
+                                                            "reloadContinuationData": {
+                                                                "continuation": "CgtsbF9TYjhlSWtQYxISQ2dOaGMzSVNBbVZ1R2dBJTNEGAEqM2VuZ2FnZW1lbnQtcGFuZWwtc2VhcmNoYWJsZS10cmFuc2NyaXB0LXNlYXJjaC1wYW5lbDAAOAFAAA%3D%3D",
+                                                                "clickTrackingParams": "CA8QxqYCIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                                            }
+                                                        },
+                                                        "trackingParams": "CA4Q48AHGAAiEwjEpMHq7qyEAxUf-bQKHRB7ATM="
+                                                    },
+                                                    {
+                                                        "title": "Іспанська",
+                                                        "selected": false,
+                                                        "continuation": {
+                                                            "reloadContinuationData": {
+                                                                "continuation": "CgtsbF9TYjhlSWtQYxIOQ2dBU0FtVnpHZ0ElM0QYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAA4AUAA",
+                                                                "clickTrackingParams": "CA0QxqYCIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                                            }
+                                                        },
+                                                        "trackingParams": "CAwQ48AHGAEiEwjEpMHq7qyEAxUf-bQKHRB7ATM="
+                                                    },
+                                                    {
+                                                        "title": "Німецька",
+                                                        "selected": false,
+                                                        "continuation": {
+                                                            "reloadContinuationData": {
+                                                                "continuation": "CgtsbF9TYjhlSWtQYxIOQ2dBU0FtUmxHZ0ElM0QYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAA4AUAA",
+                                                                "clickTrackingParams": "CAsQxqYCIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                                            }
+                                                        },
+                                                        "trackingParams": "CAoQ48AHGAIiEwjEpMHq7qyEAxUf-bQKHRB7ATM="
+                                                    },
+                                                    {
+                                                        "title": "Польська",
+                                                        "selected": false,
+                                                        "continuation": {
+                                                            "reloadContinuationData": {
+                                                                "continuation": "CgtsbF9TYjhlSWtQYxIOQ2dBU0FuQnNHZ0ElM0QYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAA4AUAA",
+                                                                "clickTrackingParams": "CAkQxqYCIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                                            }
+                                                        },
+                                                        "trackingParams": "CAgQ48AHGAMiEwjEpMHq7qyEAxUf-bQKHRB7ATM="
+                                                    },
+                                                    {
+                                                        "title": "Португальська",
+                                                        "selected": false,
+                                                        "continuation": {
+                                                            "reloadContinuationData": {
+                                                                "continuation": "CgtsbF9TYjhlSWtQYxIOQ2dBU0FuQjBHZ0ElM0QYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAA4AUAA",
+                                                                "clickTrackingParams": "CAcQxqYCIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                                            }
+                                                        },
+                                                        "trackingParams": "CAYQ48AHGAQiEwjEpMHq7qyEAxUf-bQKHRB7ATM="
+                                                    },
+                                                    {
+                                                        "title": "Французька",
+                                                        "selected": false,
+                                                        "continuation": {
+                                                            "reloadContinuationData": {
+                                                                "continuation": "CgtsbF9TYjhlSWtQYxIOQ2dBU0FtWnlHZ0ElM0QYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAA4AUAA",
+                                                                "clickTrackingParams": "CAUQxqYCIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                                            }
+                                                        },
+                                                        "trackingParams": "CAQQ48AHGAUiEwjEpMHq7qyEAxUf-bQKHRB7ATM="
+                                                    }
+                                                ],
+                                                "trackingParams": "CAMQgdoEIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+                                            }
+                                        }
+                                    }
+                                },
+                                "trackingParams": "CAIQ8bsCIhMIxKTB6u6shAMVH_m0Ch0QewEz",
+                                "targetId": "engagement-panel-searchable-transcript-search-panel"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "trackingParams": "CAAQw7wCIhMIxKTB6u6shAMVH_m0Ch0QewEz"
+}
